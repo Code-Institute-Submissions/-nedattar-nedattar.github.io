@@ -28,11 +28,11 @@ To deploy the Ned's Grandma Recipe web application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/nedattar/nedattar.github.io
 
 
 Navigate to the project directory:
-cd your-repository
+cd nedattar.github.io
 
 Open the index.html file in your preferred web browser.
 
