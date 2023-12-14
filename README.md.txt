@@ -22,6 +22,8 @@ Ned's Grandma Recipe is a simple and delightful web application that provides us
    - **Description:** Explore different variations of the chocolate chip cookie recipe.
    - **Value:** Users can experiment with variations to create unique and personalized cookies.
 
+image cloud destination: https://i.ibb.co/9NJDVm9/cookies.jpg
+
 ## Deployment Procedure
 
 To deploy the Ned's Grandma Recipe web application locally, follow these steps:
